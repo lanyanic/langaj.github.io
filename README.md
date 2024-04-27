@@ -1,0 +1,2 @@
+# langaj.github.io
+hexo
